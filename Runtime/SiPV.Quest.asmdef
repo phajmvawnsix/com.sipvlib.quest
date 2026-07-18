@@ -1,0 +1,25 @@
+{
+    "name": "SiPV.Quest",
+    "rootNamespace": "",
+    "references": [
+        "SiPV.Ads",
+        "SiPV.Config",
+        "SiPV.Debugging",
+        "SiPV.Event",
+        "SiPV.Shop",
+        "SiPV.AntiCheat",
+        "SiPV.UserData",
+        "SiPV.Utilities",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:ea86e1e2f3573eb4192e1dd536f1057d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

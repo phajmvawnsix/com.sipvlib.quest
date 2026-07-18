@@ -1,0 +1,26 @@
+{
+  "name": "com.sipvlib.quest",
+  "version": "1.0.0",
+  "displayName": "SiPVLib Quest",
+  "description": "A quest/mission tracking system (QuestManager/QuestInstance/ObjectiveInstance) with pluggable objective types (consume, receive, watch ads, buy shop item, enemy kill, login streak, login on day, visit feature), reward granting, and event broadcasting.",
+  "unity": "6000.3",
+  "author": {
+    "name": "phajmvawnsix"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "sipvlib",
+    "quest"
+  ],
+  "dependencies": {
+    "com.sipvlib.ads": "https://github.com/phajmvawnsix/com.sipvlib.ads.git",
+    "com.sipvlib.anticheat": "https://github.com/phajmvawnsix/com.sipvlib.anticheat.git",
+    "com.sipvlib.config": "https://github.com/phajmvawnsix/com.sipvlib.config.git",
+    "com.sipvlib.debugging": "https://github.com/phajmvawnsix/com.sipvlib.debugging.git",
+    "com.sipvlib.event": "https://github.com/phajmvawnsix/com.sipvlib.event.git",
+    "com.sipvlib.shop": "https://github.com/phajmvawnsix/com.sipvlib.shop.git",
+    "com.sipvlib.userdata": "https://github.com/phajmvawnsix/com.sipvlib.userdata.git",
+    "com.sipvlib.utilities": "https://github.com/phajmvawnsix/com.sipvlib.utilities.git",
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+  }
+}
